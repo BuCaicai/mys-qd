@@ -30,7 +30,22 @@ cd /path/mys-qd
 双击 main.exe
 ```
 
-- 配置文件`config.cfg`非必要不用需改，程序运行时会自动获取并覆盖
+3、登录
+
+- ⚠ 二维码请在1分钟内扫描！！
+
+![mys_login.png](static/login.png)
+
+4、签到
+
+- 选择游戏进行签到
+
+![mys_qd.png](static/sign.png)
+
+### 注意
+
+* 配置文件`config.cfg`非必要不用需改，程序运行时会自动获取并覆盖
+* 日志、登录二维码、`cookie`都在`tmp`目录下
 
 ## 项目问题
 
